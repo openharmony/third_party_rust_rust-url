@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "url",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "2.3.1",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/servo/rust-url",
+    "Description": "URL library for Rust, based on the WHATWG URL Standard."
+  }
+]
